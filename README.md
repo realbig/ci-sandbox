@@ -1,4 +1,4 @@
-# CI Testing Suite
+# CI Testing Suite [![Build Status](https://travis-ci.org/realbig/ci-sandbox.svg)](https://travis-ci.org/realbig/ci-sandbox)
 
 I'm testing kewl stuff here.
 

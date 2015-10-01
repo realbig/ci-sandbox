@@ -5,3 +5,7 @@
  * Version: 0.1.0
  * Author: Joel Worsham
  */
+
+function add_the_crap( $a, $b ) {
+	return $a + $b;
+}
