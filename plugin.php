@@ -8,4 +8,4 @@
 
 // I'm a plugin! hurmph-derrrr!
 
-lets_test_this_build()
+lets_test_this_build();
