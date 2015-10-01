@@ -2,7 +2,7 @@
 /**
  * Plugin Name: CI Testing Suite
  * Description: A sandbox for testing unit testing... that sounds weird.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: Joel Worsham
  */
 
