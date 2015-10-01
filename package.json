@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "~0.4",
+    "grunt-phpunit": "~0.3",
     "matchdep": "~0.3"
   }
 }
