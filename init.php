@@ -6,6 +6,4 @@
  * Author: Joel Worsham
  */
 
-// I'm a plugin! hurmph-derrrr!
-
-lets_test_this_build();
+require_once __DIR__ . '/src/plugin.php';
